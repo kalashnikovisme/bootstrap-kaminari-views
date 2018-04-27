@@ -1,4 +1,4 @@
-= Bootstrap Kaminari Views
+= Bootstrap Kaminari Views (it's just reload)
 
 {<img src="https://badge.fury.io/rb/bootstrap-kaminari-views.svg" alt="Gem Version" />}[http://badge.fury.io/rb/bootstrap-kaminari-views]
 
